@@ -26,7 +26,6 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# --- Virtual Environments (Penting) ---
 # Virtualenv standard names
 venv/
 env/
@@ -53,7 +52,7 @@ coverage.xml
 .pytest_cache/
 .mypy_cache/
 
-# --- Jupyter Notebook (Opsional jika pakai) ---
+# --- Jupyter Notebook ---
 .ipynb_checkpoints
 
 # --- Database ---
