@@ -1,14 +1,6 @@
 # 📚 Simple Python Library System
 
 ### Sistem Manajemen Perpustakaan Sederhana Berbasis Python OOP
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/OOP-Object_Oriented_Programming-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CLI-Console_Application-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
-</p>
-
 <p align="center">
   Sistem manajemen perpustakaan sederhana berbasis Python yang dibuat menggunakan konsep <b>Object-Oriented Programming (OOP)</b> untuk mengelola data mahasiswa, koleksi buku, serta proses peminjaman dan pengembalian buku.
 </p>
