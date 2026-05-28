@@ -25,7 +25,7 @@ A simple object-oriented library management system built with Python that allows
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/yourusername/simple-python-library-system.git](https://github.com/yourusername/simple-python-library-system.git)
+    git clone [https://github.com/Galih-11/simple-python-library-system.git](https://github.com/yourusername/simple-python-library-system.git)
     cd simple-python-library-system
     ```
 
